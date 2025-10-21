@@ -2,6 +2,7 @@
 Android app to demo new X(twitter) link experience, [starting on iOS](https://x.com/nikitabier/status/1979994223224209709) -- to make it easier for your followers to engage with your post while browsing links.
 
 ## Demo
+https://github.com/user-attachments/assets/3480b34e-0ef7-4e5a-9cf8-afcb225de419
 
-Uploading WhatsApp Video 2025-10-21 at 19.29.34.mp4…
+
 
